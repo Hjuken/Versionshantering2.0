@@ -15,7 +15,7 @@ public class User {
         return username;
     }
     public String getPassword() {
-        return passwor;
+        return password;
     }
 
     public void setUserName(String newUsername) {
