@@ -15,10 +15,11 @@ public class User {
         return username;
     }
     public String getPassword() {
-        return password;
+        return passwor;
     }
 
     public void setUserName(String newUsername) {
+
         this.username = newUsername;
     }
 }
